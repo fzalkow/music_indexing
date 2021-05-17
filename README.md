@@ -6,13 +6,14 @@ This repository contains accompanying code for the following article.
 If you use code from this repository, please consider citing the paper.
 
 ```
-Frank Zalkow, Julian Brandner, and Meinard Müller: Efficient Retrieval of Music Recordings Using Graph-Based Index Structures. Currently under review.
+Frank Zalkow, Julian Brandner, and Meinard Müller. Efficient retrieval of music recordings using graph-based index
+structures. Signals, 2(2):336–352, 2021. doi: 10.3390/signals2020021.
 ```
 
 This paper compares indexing strategies based on K-d trees and HNSW graphs in a cross-modal music retrieval application.
 In this repository, we provide an example dataset and a Jupyter notebook that shows how to load the dataset's features, generate shingles, reduce the shingle dimensionality using PCA, construct index structures (K-d trees and HNSW graphs), and search for the nearest shingles to a given query in the database.
 
-For more details, we refer to the paper and the accompanying website.
+For more details, we refer to [the paper](https://www.mdpi.com/2624-6120/2/2/21) and the accompanying website.
 
 https://www.audiolabs-erlangen.de/resources/MIR/2020_signals-indexing
 
