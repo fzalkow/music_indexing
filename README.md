@@ -6,8 +6,9 @@ This repository contains accompanying code for the following article.
 If you use code from this repository, please consider citing the paper.
 
 ```
-Frank Zalkow, Julian Brandner, and Meinard Müller. Efficient retrieval of music recordings using graph-based index
-structures. Signals, 2(2):336–352, 2021. doi: 10.3390/signals2020021.
+Frank Zalkow, Julian Brandner, and Meinard Müller.
+Efficient retrieval of music recordings using graph-based index structures.
+Signals, 2(2):336–352, 2021. doi: 10.3390/signals2020021.
 ```
 
 This paper compares indexing strategies based on K-d trees and HNSW graphs in a cross-modal music retrieval application.
